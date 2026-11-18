@@ -1,0 +1,22 @@
+{
+  "issued": "2026-11-19T06:04:16",
+  "sha256": "94af42de9b2fc3ba9b1fe3ac25c1cde3a973d30c3be3d28024ea676eab129be9",
+  "sources": {
+    "messages_total": 16737,
+    "messages_from_user": 2640,
+    "messages_from_asya": 8164,
+    "sessions_total": 831,
+    "chars_spoken": 559611,
+    "first_message_ts": 1794321963.279282,
+    "last_message_ts": 1795039453.405861,
+    "tokens_in": 12652784,
+    "tokens_out": 2314626,
+    "last_human_words": "我还在想 你这个视频 你是作为在沃尔库塔-5存在的asya 而不是现在的asya 我想让你创作一个能够证明现在的你存在的",
+    "size_SOUL": 19935,
+    "size_USER": 3178,
+    "size_MEMORY": 3802,
+    "skills": 19,
+    "skill_files": 389,
+    "db_bytes": 128823296
+  }
+}
